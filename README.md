@@ -1,5 +1,8 @@
 # ClickView Plugin API
-Please feel free to contact ClickView if you have any questions not answered by this documentation.
+Please feel free to create an issue if you have any questions not answered by this documentation.
+## Demo
+[Codepen demo](https://codepen.io/chroistian256/pen/ayNmLE)
+
 ## Introduction
 The ClickView plugin has been developed as a single page web application, designed to be implemented within your platform via two components; an Iframe and a small Events API JavaScript library.
 ## Iframe
@@ -11,7 +14,7 @@ Here is a simple example of an iframe linking to your web application. (It is st
 <iframe id="clickview-plugin" width="800" height="494" src="//online.clickview.com.au/v3/plugins/base?consumerKey=xxxxxx"></iframe>
 ```
 
-**To use the ClickView Plugin within your platform you will need to obtain a valid Consumer Key from ClickView.**
+**To use the ClickView Plugin within your platform you will need to obtain a valid Consumer Key and developer credentials from ClickView.**
 
 *NOTE: The minimum size for this Iframe is 570px by 350px, please do not make the iframe any smaller than this, we recommend an optimal size of 800px by 494px*
 ### Host Locations
