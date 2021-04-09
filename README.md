@@ -1,7 +1,7 @@
 # ClickView Plugin API
 Please feel free to create an issue if you have any questions not answered by this documentation.
 ## Demo
-[Codepen demo](https://codepen.io/chroistian256/pen/ayNmLE)
+[Codepen demo](https://codepen.io/Shalelol/pen/MWJOGBN)
 
 ## Introduction
 The ClickView plugin has been developed as a single page web application, designed to be implemented within your platform via two components; an Iframe and a small Events API JavaScript library.
@@ -44,7 +44,7 @@ http://static.clickview.com.au/cv-events-api/1.0.1/cv-events-api.min.js
 Feel free to embed this directly into your platform like so (It is strongly recommended that you use a
 protocol-relative URL).
 ```html
-<script src="//static.clickview.com.au/cv-events-api/1.0.1/cv-eventsapi.min.js" type="text/javascript"></script>
+<script src="//static.clickview.com.au/cv-events-api/1.1.1/cv-events-api.min.js" type="text/javascript"></script>
 ```
 Or alternatively you may download the file and host it directly from your platform.
 
