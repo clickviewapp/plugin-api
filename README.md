@@ -11,7 +11,7 @@ This Iframe creates an interface that allows signed in users to browse their vid
 Here is a simple example of an iframe linking to your web application. (It is strongly recommended that you use a protocol-relative URL) 
 
 ```html
-<iframe id="clickview-plugin" width="800" height="494" src="//online.clickview.com.au/v3/plugins/base?consumerKey=xxxxxx"></iframe>
+<iframe id="clickview-plugin" width="800" height="494" src="https://integrations.clickviewapp.com/plugin?consumerKey=xxxxxx"></iframe>
 ```
 
 **To use the ClickView Plugin within your platform you will need to obtain a valid Consumer Key and developer credentials from ClickView.**
@@ -86,7 +86,7 @@ application:
 
 ## Iframe Example
 ```html
-<iframe id="clickview-plugin" width="800" height="494" src="//online.clickview.com.au/v3/plugins/base?consumerKey=xxxxxx&schoolId=00000000-0000-0000-0000-000000000000"></iframe>
+<iframe id="clickview-plugin" width="800" height="494" src="https://integrations.clickviewapp.com/plugin?consumerKey=xxxxxx&schoolId=00000000-0000-0000-0000-000000000000"></iframe>
 ```
 *NOTE: Our plugin will still function normally if the School ID is incorrect, taking the user to the default
 sign in page rather than the expected SSO page.*
