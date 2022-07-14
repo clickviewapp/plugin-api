@@ -64,7 +64,7 @@ Information about the video the user has selected.
 | thumbnailUrl | A thumbnail image of the selected video. |
 | embedLink | A link to our video player, use this in conjunction with the embed property if you wish to generate your own iframe. |
 | embed {Object} | <ul><li>autoplay: Boolean indicating if the user expects the video to play automatically on page load.</li><li>width: Width in pixels that user wishes the video to be.</li><li>height: Height in pixel that the user wishes the video to be.</li></ul> | 
-| fullLink | <ul><li>A link to this video within our website. Use this if you wish to link users to our video instead of embedding it within your platform.</li></ul>|
+| fullLink | A link to this video within our website. Use this if you wish to link users to our video instead of embedding it within your platform. |
 
 # Single Sign On
 Some of our customers who use a Sign Sign On system may wish to have their instance of our Plugin slightly customized to take them directly to their SSO Log in page when authenticating with our Plugin.
