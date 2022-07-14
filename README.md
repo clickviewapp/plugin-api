@@ -36,7 +36,7 @@ http://static.clickview.com.au/cv-events-api/1.0.1/cv-events-api.min.js
 Feel free to embed this directly into your platform like so (It is strongly recommended that you use a
 protocol-relative URL).
 ```html
-<script src="//static.clickview.com.au/cv-events-api/1.1.1/cv-events-api.min.js" type="text/javascript"></script>
+<script src="https://static.clickview.com.au/cv-events-api/1.1.1/cv-events-api.min.js" type="text/javascript"></script>
 ```
 Or alternatively you may download the file and host it directly from your platform.
 
