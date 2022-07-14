@@ -17,14 +17,6 @@ Here is a simple example of an iframe linking to your web application. (It is st
 **To use the ClickView Plugin within your platform you will need to obtain a valid Consumer Key and developer credentials from ClickView.**
 
 *NOTE: The minimum size for this Iframe is 570px by 350px, please do not make the iframe any smaller than this, we recommend an optimal size of 800px by 494px*
-### Host Locations
-*NOTE: You should select a host location appropriate to your geographic region otherwise your users will not be able to sign into our platform.*
-
-| Region | URL |
-| --- | --- |
-| Australia | http://online.clickview.com.au/v3/plugins/base |
-| England | http://online.clickview.co.uk/v3/plugins/base |
-| New Zealand | http://online.clickview.co.nz/v3/plugins/base |
 
 ### Query Parameters
 The following options are exposed via the query parameters:
